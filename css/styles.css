@@ -1,18 +1,18 @@
 body {
-    font-family: "Andale Mono", "DejaVu Sans Mono", monospace;
+    font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
 }
 
 nav {
     background-color: lightblue;
-    padding: 12 20;
+    padding: 12px 20px;
 }
 
 nav ul {
     list-style: none;
     display: flex;
-    gap: 25;
+    gap: 10px;
     margin: 0;
     padding: 0;
     align-items: center;

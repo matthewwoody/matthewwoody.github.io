@@ -42,6 +42,7 @@ main {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
+/* doesnt work for whatever reason (fix later) */
 .center-text {
     text-align: center;
 }
